@@ -1,0 +1,6 @@
+INFO:User logged in
+ERROR:Database connection failed
+WARNING:Disk space low
+INFO:User updated profile
+ERROR:Timeout occurred
+INVALID LINE HERE
